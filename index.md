@@ -1,4 +1,4 @@
-## Bonan a Uxez
+## Bonanvido a lernas Uxez
 
 You can use the [editor on GitHub](https://github.com/enovalens/uxez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

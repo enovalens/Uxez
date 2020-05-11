@@ -2,7 +2,7 @@
 
 Uxezolekto estas en konstuke-lekto (*conlang*) developis de Eno Valenso. Uxezolekto estis designis por maxim efisio kai simplo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Uxezolekto estis insipra de multa lektos similara Eygolekto, Espanolekto, kai Esperolekto.
 
 ### Markdown
 

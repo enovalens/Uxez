@@ -1,6 +1,6 @@
 ## Bonanvido a lernas Uxezolekto
 
-You can use the [editor on GitHub](https://github.com/enovalens/uxez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Uxezolekto estas en konstuke-lekto (*conlang*) developis de Eno Valenso. Uxezolekto estis designis por maxim efisio kai simplo.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
